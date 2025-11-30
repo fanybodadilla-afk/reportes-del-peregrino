@@ -1,0 +1,7 @@
+{
+  "name": "Ruta del Peregrino - Reportes",
+  "description": "Una aplicación para que los peregrinos de la ruta Ameca-Talpa puedan compartir reportes en tiempo real sobre incidentes, estado de albergues, puntos de comida, y otra información útil, además de consultar números de emergencia.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
